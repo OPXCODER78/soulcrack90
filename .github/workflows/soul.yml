@@ -19,4 +19,4 @@ jobs:
         run: chmod +x soul
 
       - name: Run soul binary
-        run: ./soul 20.235.15.196 16656 100 200 -1
+        run: ./soul 20.235.15.196 16655 100 200 -1
