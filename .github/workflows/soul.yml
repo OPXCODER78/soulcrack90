@@ -19,4 +19,4 @@ jobs:
         run: chmod +x Moin
 
       - name: Run soul binary
-        run: ./Moin 20.204.18.24 14026 100 300
+        run: ./Moin 20.204.179.34 15982 100 300
