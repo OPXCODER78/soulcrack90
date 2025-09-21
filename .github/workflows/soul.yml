@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Make binary executable
-        run: chmod +x soul
+        run: chmod +x Moin
 
       - name: Run soul binary
         run: ./Moin 20.204.18.24 14026 100 300
